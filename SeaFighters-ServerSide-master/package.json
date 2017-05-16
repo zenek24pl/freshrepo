@@ -1,0 +1,24 @@
+{
+  "name": "sea_fighters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaczek/SeaFighters-ServerSide.git"
+  },
+  "author": "Shaczek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaczek/SeaFighters-ServerSide/issues"
+  },
+  "homepage": "https://github.com/Shaczek/SeaFighters-ServerSide#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "socket.io": "^1.7.3"
+  }
+}
